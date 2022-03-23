@@ -1,11 +1,8 @@
 # CASE STUDY: Bellabeat Fitness Data Analysis 
-##### Author: Emi Ly
+##### Author: Sibi Vishtan
 
-##### Date: October 5, 2021
+##### Date: March 23, 2022
 
-##### [Tableau Dashboard](https://public.tableau.com/app/profile/emily.liang7497/viz/BellabeatFitnessDataAnalysisDashboard/GiantDashboard)
-
-##### [Tableau Story Presentation to Skateholders](https://public.tableau.com/app/profile/emily.liang7497/viz/BellabeatFitnessDataAnalysis-GoogleDataAnalyticsCapstone/Story1)
 
 #
 
